@@ -76,7 +76,8 @@ Reusable block of code.
 ```js
 function problem(parm){
     return parm * parm;
-};
+}
+problem();
 ```
 
 **4.** **Promise**
