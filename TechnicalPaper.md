@@ -75,7 +75,7 @@ let obj = {
 Reusable block of code.
 ```js
 function problem(parm){
-    return problem * problem
+    return parm * parm;
 };
 ```
 
