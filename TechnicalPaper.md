@@ -2,18 +2,18 @@
 
 ## Data Types
 
-A Data type is an attribute that tell a computer how to interpret its value.
+A Data type is an attribute that tells a computer how to interpret its value.
 
 **1.** **String**
 
-Represnts textual data.
+Represents textual data.
 ```js
 let myString = "Hello World";
 ```
 
 **2.** **Number**
 
-Represents numerical data
+Represents numerical data.
 ```js
 let number = 24;
 ```
@@ -41,7 +41,7 @@ let mySymbol = Symbol('unique');
 
 **6.** **BigInt**
 
-Represents a larger number value
+Represents a larger number value.
 ```js
 let myBig = 789452589;
 ```
@@ -61,7 +61,7 @@ let arr = [7,8,4,9,4,5,2,5,8,9];
 
 **2.** **Object**
 
-Collection of Key-Pair values.
+Collection of Key-Value pairs.
 ```js
 let obj = {
     name:'Jaswanth Chowdary',
