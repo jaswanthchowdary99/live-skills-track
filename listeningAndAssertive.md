@@ -1,29 +1,64 @@
-### Question 1: When do you act passively in your daily life?
 
-Acting passively happens when you avoid expressing your thoughts or feelings because you're afraid of conflict or criticism. It's when you prioritize others' needs over your own and find it challenging to say no or share your concerns. This behavior may occur when you're afraid to disagree or hesitant to speak up.
+### Question 1: Active Listening Steps/Strategies
+**Give full attention: Focus on the speaker without distractions.**
 
-### Question 2: When do you become aggressive in your daily interactions?
+- Show that you're listening: Use non-verbal cues like nodding or maintaining eye contact.
+- **Provide feedback:** Reflect on what the speaker said, ask clarifying questions.
+- **Defer judgment:** Avoid forming opinions or interrupting while the speaker is talking.
+- **Respond appropriately:** Reply in a way that shows understanding and encourages further communication.
+- **Avoid internal distractions:** Stay mentally present, and don't let personal thoughts hinder listening.
 
-Being aggressive means you act forcefully and dominate in your interactions. This happens when you're very mad or frustrated, leading to confrontational and sometimes mean behavior. People may become aggressive when they feel disrespected, threatened, or when someone crosses their boundaries, resulting in actions like yelling, arguing, or being mean to others.
+### Question 2: Reflective Listening Points (Fisher's Model)
+**Reflective Listening, according to Fisher's model, involves:**
 
-### Question 3: When do you show passive-aggressive behavior in your daily life?
+- **Mirroring Body Language:** Imitating the speaker's non-verbal cues.
+- **Acknowledging Emotions:** Recognizing and validating the speaker's feelings.
+- **Verifying the Message:** Confirming understanding by summarizing or paraphrasing.
 
-Acting passive-aggressive occurs when you're upset but don't want to express it directly. Instead of openly discussing your feelings, you might use sarcasm, spread rumors, or give someone the silent treatment. People adopt this style to indicate their displeasure without engaging in direct confrontation.
+### Question 3: Obstacles in Listening Process
+**Common obstacles in listening include:**
 
-### Question 4: How can you communicate assertively?
+- Distractions
+- Prejudice or bias
+- Lack of interest
+- Personal assumptions
+- Noise or environmental factors
 
-**To communicate assertively:**
+### Question 4: Improve Your Listening
+**To enhance listening skills:**
 
-- Be honest: Always speak the truth.
-- Share your feelings: Express your emotions without blaming anyone.
-- Use "I" statements: Frame your thoughts using phrases like "I feel."
-- Listen actively: Pay attention to what others say.
-- Set boundaries: Clearly communicate your limits and expectations.
-- Respect yourself: Value your opinions and needs.
-- Be confident: Believe in yourself and your right to express your thoughts.
-- Solve conflicts: Handle disagreements calmly and respectfully.
-- Listen actively: Demonstrate interest by paying attention.
-- Use body language: Ensure your body language aligns with your assertiveness.
+- Minimize distractions
+- Be open-minded
+- Practice empathy
+- Ask questions for clarity
+- Focus on the speaker's message
 
+### Question 5: Switch to Passive Communication
+**You may switch to passive communication when:**
 
+- Avoiding conflict or criticism
+- Putting others' needs ahead of yours
+- Hesitant to express thoughts or feelings
 
+### Question 6: Switch to Aggressive Communication
+**Aggressive communication may occur when:**
+
+- Feeling very mad or frustrated
+- Being confrontational or mean
+- Reacting forcefully in interactions
+
+### Question 7: Switch to Passive-Aggressive Communication
+**Passive-aggressive behavior may manifest when:**
+
+- Angry but unwilling to express it directly
+- Using sarcasm, spreading rumors, or giving the silent treatment
+
+### Question 8: Make Communication Assertive
+**To make communication assertive:**
+
+- Be honest and open
+- Express feelings without blaming
+- Use "I" statements
+- Actively listen and seek understanding
+- Set and communicate boundaries
+- Handle conflicts calmly and respectfully
