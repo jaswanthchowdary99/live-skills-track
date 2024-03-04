@@ -10,7 +10,10 @@
 - Internal Locus of Control is believing in one's ability to control life through actions. The key point is empowerment.
 
 ## How to Build a Growth Mindset Key Points:
-- Learn from mistakes, seek feedback, engage in continuous learning, and contribute to open-source projects.
+- Learn from mistakes
+- seek feedback
+- engage in continuous learning
+- Contribute to open-source projects.
 
 ## Ideas to Build Growth Mindset:
 - Embrace rejection, learn from others' failures, take calculated risks, and actively seek challenges in coding.
