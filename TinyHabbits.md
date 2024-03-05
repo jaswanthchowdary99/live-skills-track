@@ -12,7 +12,8 @@ The most interesting idea for me was the concept of starting with tiny habits an
  Celebrating after each successful completion is crucial because it reinforces the positive feelings associated with the habit, making it more likely to become ingrained.
 
 ## [ 1% Better Every Day Video](https://www.youtube.com/watch?v=mNeXuCYiE0U)
-### Question 4: The most interesting idea was the emphasis on continuous improvement by focusing on getting 1% better every day, leading to significant progress over time.
+### Question 4: 
+The most interesting idea was the emphasis on continuous improvement by focusing on getting 1% better every day, leading to significant progress over time.
 
 ## [Book Summary of Atomic Habits Video (11:11 minutes)]( https://www.youtube.com/watch?v=YT7tQzmGRLA)
 ### Question 5:
