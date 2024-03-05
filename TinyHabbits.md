@@ -1,8 +1,8 @@
-## BJ Fogg's Tiny Habits Video (17:24 seconds)
+## [BJ Fogg's Tiny Habits Video (17:24 seconds)](https://www.youtube.com/watch?v=AdKUJxjn-R8)
 ### Question 1: 
 The most interesting idea for me was the concept of starting with tiny habits and letting them grow gradually, making it easier to build and sustain habits.
 
-## Tiny Habits by BJ Fogg - Core Message Video (9:15 minutes)
+## [Tiny Habits by BJ Fogg - Core Message Video (9:15 minutes)](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
 ### Question 2:
 
 - M (Motivation): Make the behavior something you want to do.
@@ -11,7 +11,7 @@ The most interesting idea for me was the concept of starting with tiny habits an
 ### Question 3:
  Celebrating after each successful completion is crucial because it reinforces the positive feelings associated with the habit, making it more likely to become ingrained.
 
-## 1% Better Every Day Video (24:36 minutes)
+## [ 1% Better Every Day Video](https://www.youtube.com/watch?v=mNeXuCYiE0U)
 ### Question 4: The most interesting idea was the emphasis on continuous improvement by focusing on getting 1% better every day, leading to significant progress over time.
 
 ## Book Summary of Atomic Habits Video (11:11 minutes)
